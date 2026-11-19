@@ -1,2 +1,15 @@
-# youtube-layout-clone
-This project is a responsive YouTube homepage clone created using HTML, CSS, and JavaScript. It includes a navigation sidebar, search bar, video card layout, and responsive design. The objective of the project is to replicate the user interface of a real-world website while practicing front-end development and layout design skills.
+YouTube Layout Clone
+A responsive YouTube homepage clone developed using HTML, CSS, and JavaScript.
+
+Features
+Responsive Design
+Navigation Sidebar
+Search Bar
+Video Grid Layout
+Modern UI
+Technologies Used
+HTML5
+CSS3
+JavaScript
+Author
+Aditi Pandey
